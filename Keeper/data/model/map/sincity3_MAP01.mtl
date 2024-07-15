@@ -1,0 +1,147 @@
+# MTL for sincity3.wad, map MAP01
+# Created by GZDoom Builder 2.3.0.2787
+
+newmtl F_SKY1
+Kd 1.0 1.0 1.0
+map_Kd D:\Downloads\SINCITY\F_SKY1.PNG
+
+newmtl SAQD9A
+Kd 1.0 1.0 1.0
+map_Kd D:\Downloads\SINCITY\SAQD9A.PNG
+
+newmtl SAQD9A1
+Kd 1.0 1.0 1.0
+map_Kd D:\Downloads\SINCITY\SAQD9A1.PNG
+
+newmtl SAQD9A3
+Kd 1.0 1.0 1.0
+map_Kd D:\Downloads\SINCITY\SAQD9A3.PNG
+
+newmtl SBBRIC1
+Kd 1.0 1.0 1.0
+map_Kd D:\Downloads\SINCITY\SBBRIC1.PNG
+
+newmtl SBRBOL1
+Kd 1.0 1.0 1.0
+map_Kd D:\Downloads\SINCITY\SBRBOL1.PNG
+
+newmtl SBRBOLT
+Kd 1.0 1.0 1.0
+map_Kd D:\Downloads\SINCITY\SBRBOLT.PNG
+
+newmtl SBUIL2A
+Kd 1.0 1.0 1.0
+map_Kd D:\Downloads\SINCITY\SBUIL2A.PNG
+
+newmtl SBUILD5
+Kd 1.0 1.0 1.0
+map_Kd D:\Downloads\SINCITY\SBUILD5.PNG
+
+newmtl SDRYWA1
+Kd 1.0 1.0 1.0
+map_Kd D:\Downloads\SINCITY\SDRYWA1.PNG
+
+newmtl SGRASS2
+Kd 1.0 1.0 1.0
+map_Kd D:\Downloads\SINCITY\SGRASS2.PNG
+
+newmtl SNEWB12
+Kd 1.0 1.0 1.0
+map_Kd D:\Downloads\SINCITY\SNEWB12.PNG
+
+newmtl SOLDCON
+Kd 1.0 1.0 1.0
+map_Kd D:\Downloads\SINCITY\SOLDCON.PNG
+
+newmtl SOUTBR3
+Kd 1.0 1.0 1.0
+map_Kd D:\Downloads\SINCITY\SOUTBR3.PNG
+
+newmtl SROAD1
+Kd 1.0 1.0 1.0
+map_Kd D:\Downloads\SINCITY\SROAD1.PNG
+
+newmtl SSHIT1
+Kd 1.0 1.0 1.0
+map_Kd D:\Downloads\SINCITY\SSHIT1.PNG
+
+newmtl SWINDO1
+Kd 1.0 1.0 1.0
+map_Kd D:\Downloads\SINCITY\SWINDO1.PNG
+
+newmtl SWINDO2
+Kd 1.0 1.0 1.0
+map_Kd D:\Downloads\SINCITY\SWINDO2.PNG
+
+newmtl SWWFLO4
+Kd 1.0 1.0 1.0
+map_Kd D:\Downloads\SINCITY\SWWFLO4.PNG
+
+newmtl F_SKY1
+Kd 1.0 1.0 1.0
+map_Kd D:\Downloads\SINCITY\F_SKY1_FLAT.PNG
+
+newmtl SAQD9A
+Kd 1.0 1.0 1.0
+map_Kd D:\Downloads\SINCITY\SAQD9A_FLAT.PNG
+
+newmtl SAQD9A1
+Kd 1.0 1.0 1.0
+map_Kd D:\Downloads\SINCITY\SAQD9A1_FLAT.PNG
+
+newmtl SBBRIC1
+Kd 1.0 1.0 1.0
+map_Kd D:\Downloads\SINCITY\SBBRIC1_FLAT.PNG
+
+newmtl SBBRIC2
+Kd 1.0 1.0 1.0
+map_Kd D:\Downloads\SINCITY\SBBRIC2.PNG
+
+newmtl SBLACK
+Kd 1.0 1.0 1.0
+map_Kd D:\Downloads\SINCITY\SBLACK.PNG
+
+newmtl SBRBOLT
+Kd 1.0 1.0 1.0
+map_Kd D:\Downloads\SINCITY\SBRBOLT_FLAT.PNG
+
+newmtl SBUIL2A
+Kd 1.0 1.0 1.0
+map_Kd D:\Downloads\SINCITY\SBUIL2A_FLAT.PNG
+
+newmtl SCEME4A
+Kd 1.0 1.0 1.0
+map_Kd D:\Downloads\SINCITY\SCEME4A.PNG
+
+newmtl SDRYWA1
+Kd 1.0 1.0 1.0
+map_Kd D:\Downloads\SINCITY\SDRYWA1_FLAT.PNG
+
+newmtl SGRASS2
+Kd 1.0 1.0 1.0
+map_Kd D:\Downloads\SINCITY\SGRASS2_FLAT.PNG
+
+newmtl SLADDER2
+Kd 1.0 1.0 1.0
+map_Kd D:\Downloads\SINCITY\SLADDER2.PNG
+
+newmtl SROAD1
+Kd 1.0 1.0 1.0
+map_Kd D:\Downloads\SINCITY\SROAD1_FLAT.PNG
+
+newmtl SROOFGR
+Kd 1.0 1.0 1.0
+map_Kd D:\Downloads\SINCITY\SROOFGR.PNG
+
+newmtl SWHGRID
+Kd 1.0 1.0 1.0
+map_Kd D:\Downloads\SINCITY\SWHGRID.PNG
+
+newmtl SWOODRO
+Kd 1.0 1.0 1.0
+map_Kd D:\Downloads\SINCITY\SWOODRO.PNG
+
+newmtl SWWFLO4
+Kd 1.0 1.0 1.0
+map_Kd D:\Downloads\SINCITY\SWWFLO4_FLAT.PNG
+

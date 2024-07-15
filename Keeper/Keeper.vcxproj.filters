@@ -1,0 +1,280 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="2DTextInterface">
+      <UniqueIdentifier>{39c4cb84-8954-4472-a3a3-089da965332a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2DTextInterface\InterfaceSource">
+      <UniqueIdentifier>{7f17a782-a8cc-43e7-b33b-31c6838f5618}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Assimp">
+      <UniqueIdentifier>{176c010e-8c50-4835-b3a4-80dc4c76258e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BattleInterface">
+      <UniqueIdentifier>{11484140-afd6-4f30-a715-34a45d2eb144}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="StartMenu">
+      <UniqueIdentifier>{6c2f62a3-86b2-4068-8081-423c0f2f1088}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Entity">
+      <UniqueIdentifier>{5f8bb852-1c93-439d-a85e-a02ee276afc8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="colorshaderclass.cpp">
+      <Filter>2DTextInterface\InterfaceSource</Filter>
+    </ClCompile>
+    <ClCompile Include="fontclass.cpp">
+      <Filter>2DTextInterface\InterfaceSource</Filter>
+    </ClCompile>
+    <ClCompile Include="fontshaderclass.cpp">
+      <Filter>2DTextInterface\InterfaceSource</Filter>
+    </ClCompile>
+    <ClCompile Include="fpsclass.cpp">
+      <Filter>2DTextInterface\InterfaceSource</Filter>
+    </ClCompile>
+    <ClCompile Include="shadermanagerclass.cpp">
+      <Filter>2DTextInterface\InterfaceSource</Filter>
+    </ClCompile>
+    <ClCompile Include="textclass.cpp">
+      <Filter>2DTextInterface\InterfaceSource</Filter>
+    </ClCompile>
+    <ClCompile Include="textureclass.cpp">
+      <Filter>2DTextInterface\InterfaceSource</Filter>
+    </ClCompile>
+    <ClCompile Include="textinterfaceclass.cpp">
+      <Filter>2DTextInterface\InterfaceSource</Filter>
+    </ClCompile>
+    <ClCompile Include="applicationclass.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="cameraclass.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="d3dclass.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="inputclass.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="positionclass.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="systemclass.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="terrainclass.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="timerclass.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Loader.cpp">
+      <Filter>Assimp</Filter>
+    </ClCompile>
+    <ClCompile Include="TextureShader.cpp">
+      <Filter>Assimp</Filter>
+    </ClCompile>
+    <ClCompile Include="Animation.cpp">
+      <Filter>Assimp</Filter>
+    </ClCompile>
+    <ClCompile Include="BattleUiClass.cpp">
+      <Filter>BattleInterface</Filter>
+    </ClCompile>
+    <ClCompile Include="ImageShaderClass.cpp">
+      <Filter>BattleInterface</Filter>
+    </ClCompile>
+    <ClCompile Include="SetImageClass.cpp">
+      <Filter>BattleInterface</Filter>
+    </ClCompile>
+    <ClCompile Include="TouchClass.cpp">
+      <Filter>StartMenu</Filter>
+    </ClCompile>
+    <ClCompile Include="PauseClass.cpp">
+      <Filter>StartMenu</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjectLoad.cpp">
+      <Filter>Assimp</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjectShader.cpp">
+      <Filter>Assimp</Filter>
+    </ClCompile>
+    <ClCompile Include="EntityClass.cpp">
+      <Filter>Entity</Filter>
+    </ClCompile>
+    <ClCompile Include="EffectImageClass.cpp">
+      <Filter>Assimp</Filter>
+    </ClCompile>
+    <ClCompile Include="EffectClass.cpp">
+      <Filter>Entity</Filter>
+    </ClCompile>
+    <ClCompile Include="gameclass.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="StartMenuClass.cpp">
+      <Filter>StartMenu</Filter>
+    </ClCompile>
+    <ClCompile Include="ButtonClass.cpp">
+      <Filter>StartMenu</Filter>
+    </ClCompile>
+    <ClCompile Include="GameOverClass.cpp">
+      <Filter>StartMenu</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="d3dclass.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="inputclass.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="positionclass.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="systemclass.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="terrainclass.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="timerclass.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="applicationclass.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="cameraclass.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="fontclass.h">
+      <Filter>2DTextInterface</Filter>
+    </ClInclude>
+    <ClInclude Include="fontshaderclass.h">
+      <Filter>2DTextInterface</Filter>
+    </ClInclude>
+    <ClInclude Include="fpsclass.h">
+      <Filter>2DTextInterface</Filter>
+    </ClInclude>
+    <ClInclude Include="shadermanagerclass.h">
+      <Filter>2DTextInterface</Filter>
+    </ClInclude>
+    <ClInclude Include="textclass.h">
+      <Filter>2DTextInterface</Filter>
+    </ClInclude>
+    <ClInclude Include="textureclass.h">
+      <Filter>2DTextInterface</Filter>
+    </ClInclude>
+    <ClInclude Include="colorshaderclass.h">
+      <Filter>2DTextInterface</Filter>
+    </ClInclude>
+    <ClInclude Include="textinterfaceclass.h">
+      <Filter>2DTextInterface</Filter>
+    </ClInclude>
+    <ClInclude Include="Loader.h">
+      <Filter>Assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="TextureShader.h">
+      <Filter>Assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Mesh.h">
+      <Filter>Assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Animation.h">
+      <Filter>Assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="BattleUiClass.h">
+      <Filter>BattleInterface</Filter>
+    </ClInclude>
+    <ClInclude Include="ImageShaderClass.h">
+      <Filter>BattleInterface</Filter>
+    </ClInclude>
+    <ClInclude Include="SetImageClass.h">
+      <Filter>BattleInterface</Filter>
+    </ClInclude>
+    <ClInclude Include="TouchClass.h">
+      <Filter>StartMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="PauseClass.h">
+      <Filter>StartMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectLoad.h">
+      <Filter>Assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectShader.h">
+      <Filter>Assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectMesh.h">
+      <Filter>Assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="EntityClass.h">
+      <Filter>Entity</Filter>
+    </ClInclude>
+    <ClInclude Include="EffectImageClass.h">
+      <Filter>Assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="EffectClass.h">
+      <Filter>Entity</Filter>
+    </ClInclude>
+    <ClInclude Include="gameclass.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="StartMenuClass.h">
+      <Filter>StartMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="ButtonClass.h">
+      <Filter>StartMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="GameOverClass.h">
+      <Filter>StartMenu</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\color.vs">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\color.ps">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\2dUi.vs">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\2dUi.ps">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\ObjectVertex.vs">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\ObjectPixel.ps">
+      <Filter>리소스 파일</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="..\PixelShader.hlsl">
+      <Filter>리소스 파일</Filter>
+    </FxCompile>
+    <FxCompile Include="..\VertexShader.hlsl">
+      <Filter>리소스 파일</Filter>
+    </FxCompile>
+    <FxCompile Include="..\OsPs.hlsl">
+      <Filter>리소스 파일</Filter>
+    </FxCompile>
+    <FxCompile Include="..\OsVs.hlsl">
+      <Filter>리소스 파일</Filter>
+    </FxCompile>
+  </ItemGroup>
+</Project>
